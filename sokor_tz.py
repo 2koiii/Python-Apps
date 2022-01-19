@@ -1,3 +1,5 @@
+#!/home/koi/.local/share/virtualenvs/Python-Apps-XIUm_eZ1/bin/python
+
 from tkinter import *
 from tkinter.ttk import *
 
